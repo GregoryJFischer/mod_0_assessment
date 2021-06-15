@@ -1,10 +1,10 @@
 tyrannosaurus_rex = {
-  "Time period" => "Late Cretaceous",
-  "Diet" => "Carnivore",
-  "Length in Feet" => 40,
-  "Lifespan" => 30,
-  "Is big" => true,
-  "Currently living" => false,
-  "People who like dinosaurs" => ["You", "Me", "Everyone"],
-  "Possible skin types" => ["Hide", "Fur", "Feathers"]
+  "time_period" => "Late Cretaceous",
+  "diet" => "Carnivore",
+  "length_in_feet" => 40,
+  "fifespan" => 30,
+  "is_big" => true,
+  "currently_living" => false,
+  "appendages" => ["right claw", "left claw", "right leg", "left leg"],
+  "skin_types" => ["Hide", "Fur", "Feathers"]
 }
