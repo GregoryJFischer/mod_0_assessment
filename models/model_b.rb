@@ -1,12 +1,12 @@
 sowftware_engineer = {
-  "Name" => "Greg"
-  "Pronouns" => "He/Him",
-  "Age" => 27,
-  "Height in cm" => 193.04,
-  "Is Exited" => true,
-  "Works a lot" => true,
-  "Programming lanuages" => ["ruby", "java", "MatLab"],
-  "Past Jobs" => [
+  "name" => "Greg"
+  "pronouns" => "He/Him",
+  "age" => 27,
+  "height_in_cm" => 193.04,
+  "is_exited" => true,
+  "works_a_lot" => true,
+  "programming_lanuages" => ["ruby", "java", "MatLab"],
+  "past_jobs" => [
     "tutor", "dishwasher", "scooper at b&j", "barista", "supervisor"
   ]
 }
